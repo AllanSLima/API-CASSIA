@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.seufrontend.produtos_frontend.ProdutosFrontendApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.362 s -- in com.seufrontend.produtos_frontend.ProdutosFrontendApplicationTests
